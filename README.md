@@ -1,3 +1,3 @@
 # Observability без боли
 
-[Правила чата](Terms.md) 
+[Правила чата](Terms.MD) 
